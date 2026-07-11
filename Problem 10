@@ -1,6 +1,4 @@
-float_num=45.78
-print("original float:", float_num)
-
-int_num = int(float_num)
-print("Converted integer:", type(int_num))
-print("new type:", type(int_num))
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+difference = num1 - num2
+print("The difference is:", difference")
