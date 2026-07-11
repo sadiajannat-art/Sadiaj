@@ -1,9 +1,8 @@
-print("list1 = list2 (Same values?):", list1 ==list2)
-
-print("list1 is list2 (Same memory object?):", list1 is list2)
-
-print("list1 is list3 (Same memory object?):", list1 is list3)
-
-print("Memory ID of list1:", id(list1))
-print("Memory ID of list2:", id(list2))
-print("Memory ID of list3:", id(list3))
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+print("Before swapping: num1 =", num1, "num2 =", num2)
+# Using temp variable
+temp = num1
+num1 = num2
+num2 = temp
+print("After swapping: num1 =", num1, "num2 =", num2)
