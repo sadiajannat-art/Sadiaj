@@ -1,0 +1,2 @@
+print(total_seconds, "seconds is equal to:", minutes, "minutes and",
+remaining_seconds, "seconds")
