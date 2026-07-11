@@ -1,4 +1,5 @@
-num1=int(input("enter frist number:"))
-num2=int(input("enter second number:"))
-difference= num1 - num2
-print("thr differenc is:",difference)
+#info=,'''name  :sadia jannat
+#age      :17
+#district  : chattogram
+#country  :Bangladesh
+print(info)
