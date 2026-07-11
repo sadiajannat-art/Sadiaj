@@ -1,7 +1,3 @@
-num1=int(input("enter the first number:"))
-num2=int(input("enter the second number:"))
-print("before sawpping : num1=",num1,"num2 =",num2)
-temp = num1
-num1 = num2
-num2 = temp
-print("after sawpping: num1=", num1,"num2=",num2)
+print("2026","07","01",sep="-")
+print("dhaka"chittagong","sylhet",sep="-.")
+print("-".sadia(["2026","07","01"]))
