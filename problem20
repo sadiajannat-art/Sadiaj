@@ -1,1 +1,8 @@
-print("the area of rectangle :",area)
+age=17  #integer
+hight=5.1 #float
+name= sadia #string
+is_student =true  #boolean
+print("value:",age,"|type:",type(age))
+print("value:",hight"|type:",type(hight))
+print("value:",name,"|type:",type(name))
+print("value:",is_student,"|type:",type(is_student))
