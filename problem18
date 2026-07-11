@@ -1,2 +1,5 @@
-print(total_seconds, "seconds is equal to:", minutes, "minutes and",
-remaining_seconds, "seconds")
+float_num = 45.78
+print("Original float:", float_num)
+int_num = int(float_num)
+print("Converted integer:", int_num)
+print("new type:",type(int_num))
