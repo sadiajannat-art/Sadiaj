@@ -1,0 +1,8 @@
+char = input("Entervan alphabet charecter:")
+lower_cher = cher.lower()
+if lower_char in['a','e','i','o','u',]:
+  print(cher,"is a vawel")
+elif lower_cher.isalpha():
+ print(char,"is a consonant")
+ else:
+ print("invalid input! plese enter an alphabet.")
