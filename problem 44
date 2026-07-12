@@ -1,3 +1,5 @@
-meters = float(input("Enter distance in meters: ")) 
-kilometers = meters / 1000 
-print(meters, "meters is equal to", kilometers, "km") 
+num = int(input("Enter a number: "))  
+if num % 2 == 0: 
+print(num, "is an Even number") 
+else: 
+print(num, "is an Odd number") 
