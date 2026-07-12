@@ -1,0 +1,7 @@
+char= input("enter an alphabet character:")
+if 'A'<='Z':
+print(char,"is an UPPERCASE chracter")
+elif'a'<=char<='z':
+print(char,"is a lowercase character")
+else:
+print(char,"is not an alphabet character")
