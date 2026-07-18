@@ -1,0 +1,12 @@
+import math
+num=int(input("Enter a number:"0
+temp =num
+total_sum =0
+while temp>0:
+digit=temp % 10
+total_sum+= math.factorial(digit)
+temp = tamp//10
+if total_sum== num:
+print(num,"is a stron number")
+else:
+print(num,"is NOT a strong number")
